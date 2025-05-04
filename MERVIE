@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mon Premier Site</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f2f2f2;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      color: #2c3e50;
+    }
+    p {
+      font-size: 18px;
+    }
+    a {
+      color: #2980b9;
+    }
+  </style>
+</head>
+<body>
+  <h1>Bienvenue sur mon site !</h1>
+  <p>Je suis Merveil Kayembe, étudiant et passionné par le web.</p>
+  <a href="https://chat.openai.com">Me contacter</a>
+</body>
+</html>
